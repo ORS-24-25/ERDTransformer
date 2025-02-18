@@ -1,3 +1,6 @@
+### Note:
+Currently this is copied directly from the citation linked
+
 ### Overview: 
 Code to accompany our paper: _Latent Space Planning for Multi-Object Manipulation with Environment-Aware Relational Classifiers_. [[PDF]](https://arxiv.org/pdf/2305.10857.pdf) [[Website]](https://sites.google.com/view/erelationaldynamics)
 
