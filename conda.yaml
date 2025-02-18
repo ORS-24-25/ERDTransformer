@@ -1,0 +1,31 @@
+name: erdtransformer
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+  - pyg
+dependencies:
+  - python=3.8
+  - conda-forge::ncurses
+  - ipython
+  - jupyter
+  - tqdm
+  - matplotlib=3.5.1
+  - seaborn
+  - scikit-learn
+  - pyyaml
+  - tensorboard
+  - pcl
+  - cmake=3.16.3
+  - h5py
+  - torchvision
+  - tensorboardX
+  - ipdb
+  - chainer
+  - pip
+  - pyg
+  - pip:
+    - pyquaternion
+    - urdfpy
+    - dgl
+    - open3d  
